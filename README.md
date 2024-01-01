@@ -15,3 +15,9 @@ In this ap, we utilized the following stuff:
 ## Demo
 
 You can find the demo [here (Protect Server API in Nuxt3)](protect-server-api-nuxt3.netlify.app).
+
+## Tutorial
+
+[![Social image](/public/social.png)](https://youtu.be/lBr4V_3j8kI)
+
+Here is a link to the Tutorial: [Securing Nuxt 3 API Endpoints with Pinia, UI Thing, Nuxt Auth Utils & TailwindCSS | Full Tutorial 🔒](https://youtu.be/lBr4V_3j8kI) or click on the image above 😊.
