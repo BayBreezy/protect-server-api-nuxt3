@@ -5,6 +5,13 @@
         <p class="text-lg font-semibold">Protect API</p>
         <div class="flex items-center gap-2">
           <UiButton
+            @click="$colorMode.preference = $colorMode.value == 'dark' ? 'light' : 'dark'"
+            variant="ghost"
+            size="icon-sm"
+          >
+            <Icon name="lucide:sun-medium" class="h-4 w-4" />
+          </UiButton>
+          <UiButton
             v-if="!useAuthStore().loggedIn"
             @click="useAuthStore().signIn()"
             variant="outline"
