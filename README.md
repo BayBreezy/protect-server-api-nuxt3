@@ -14,7 +14,7 @@ In this ap, we utilized the following stuff:
 
 ## Demo
 
-You can find the demo [here (Protect Server API in Nuxt3)](protect-server-api-nuxt3.netlify.app).
+You can find the demo [here](https://protect-server-api-nuxt3.netlify.app).
 
 ## Tutorial
 
