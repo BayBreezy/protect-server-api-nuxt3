@@ -29,7 +29,7 @@
     "@faker-js/faker": "^8.4.1",
     "@pinia/nuxt": "^0.5.1",
     "pinia": "^2.1.7",
-    "radix-vue": "^1.5.2",
+    "radix-vue": "^1.5.3",
     "tailwind-variants": "^0.2.1"
   }
 }
