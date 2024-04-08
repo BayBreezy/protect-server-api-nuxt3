@@ -15,13 +15,13 @@
     "@nuxtjs/color-mode": "^3.3.3",
     "@nuxtjs/tailwindcss": "^6.11.4",
     "@vueuse/nuxt": "^10.9.0",
-    "nuxt": "^3.11.1",
-    "nuxt-auth-utils": "^0.0.21",
+    "nuxt": "^3.11.2",
+    "nuxt-auth-utils": "^0.0.22",
     "nuxt-icon": "^0.6.10",
     "prettier": "^3.2.5",
     "prettier-plugin-tailwindcss": "^0.5.13",
     "tailwindcss-animate": "^1.0.7",
-    "typescript": "^5.4.3",
+    "typescript": "^5.4.4",
     "vue": "^3.4.21",
     "vue-router": "^4.3.0"
   },
@@ -29,7 +29,7 @@
     "@faker-js/faker": "^8.4.1",
     "@pinia/nuxt": "^0.5.1",
     "pinia": "^2.1.7",
-    "radix-vue": "^1.6.1",
+    "radix-vue": "^1.6.2",
     "tailwind-variants": "^0.2.1"
   }
 }
