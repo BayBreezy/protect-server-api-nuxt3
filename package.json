@@ -14,16 +14,16 @@
     "@ianvs/prettier-plugin-sort-imports": "^4.2.1",
     "@nuxtjs/color-mode": "^3.4.1",
     "@nuxtjs/tailwindcss": "^6.12.0",
-    "@vueuse/nuxt": "^10.10.0",
-    "nuxt": "^3.11.2",
+    "@vueuse/nuxt": "^10.10.1",
+    "nuxt": "^3.12.1",
     "nuxt-auth-utils": "^0.0.25",
     "nuxt-icon": "^0.6.10",
-    "prettier": "^3.3.0",
-    "prettier-plugin-tailwindcss": "^0.6.1",
+    "prettier": "^3.3.2",
+    "prettier-plugin-tailwindcss": "^0.6.3",
     "tailwindcss-animate": "^1.0.7",
     "typescript": "^5.4.5",
     "vue": "^3.4.27",
-    "vue-router": "^4.3.2"
+    "vue-router": "^4.3.3"
   },
   "dependencies": {
     "@faker-js/faker": "^8.4.1",
