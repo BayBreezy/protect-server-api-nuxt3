@@ -14,7 +14,7 @@
     "@ianvs/prettier-plugin-sort-imports": "^4.2.1",
     "@nuxtjs/color-mode": "^3.4.1",
     "@nuxtjs/tailwindcss": "^6.12.0",
-    "@vueuse/nuxt": "^10.10.1",
+    "@vueuse/nuxt": "^10.11.0",
     "nuxt": "^3.12.2",
     "nuxt-auth-utils": "^0.0.25",
     "nuxt-icon": "^0.6.10",
