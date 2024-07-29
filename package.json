@@ -16,7 +16,7 @@
     "@nuxtjs/tailwindcss": "^6.12.1",
     "@vueuse/nuxt": "^10.11.0",
     "nuxt": "^3.12.4",
-    "nuxt-auth-utils": "^0.2.0",
+    "nuxt-auth-utils": "^0.3.0",
     "nuxt-icon": "^0.6.10",
     "prettier": "^3.3.3",
     "prettier-plugin-tailwindcss": "^0.6.5",
