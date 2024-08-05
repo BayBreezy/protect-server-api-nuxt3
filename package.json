@@ -23,7 +23,7 @@
     "tailwindcss-animate": "^1.0.7",
     "typescript": "^5.5.4",
     "vue": "^3.4.34",
-    "vue-router": "^4.4.0"
+    "vue-router": "^4.4.2"
   },
   "dependencies": {
     "@faker-js/faker": "^8.4.1",
