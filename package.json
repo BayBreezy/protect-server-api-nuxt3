@@ -27,7 +27,7 @@
   },
   "dependencies": {
     "@faker-js/faker": "^8.4.1",
-    "@pinia/nuxt": "^0.5.2",
+    "@pinia/nuxt": "^0.5.3",
     "pinia": "^2.2.0",
     "radix-vue": "1.9.2",
     "tailwind-variants": "^0.2.1"
