@@ -7,7 +7,8 @@ export default defineEventHandler(async (event) => {
     name: faker.person.fullName(),
     email: faker.internet.email(),
     // avatar: faker.internet.avatar(), // This got deprecated
-    avatar: faker.image.avatarLegacy(),
+    // avatar: faker.image.avatarLegacy(), // This got deprecated
+    avatar: faker.image.avatar(),
   };
   /**
    * In a real app, you should reach out to DB/external auth service to fetch the user and validate the different stuff

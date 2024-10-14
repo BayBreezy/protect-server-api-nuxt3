@@ -13,7 +13,8 @@ export default defineEventHandler(async (event) => {
       name: faker.person.fullName(),
       email: faker.internet.email(),
       // avatar: faker.internet.avatar(), // This got deprecated
-      avatar: faker.image.avatarLegacy(),
+      // avatar: faker.image.avatarLegacy(), // This got deprecated
+      avatar: faker.image.avatar(),
     });
   }
 
