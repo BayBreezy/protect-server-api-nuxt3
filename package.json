@@ -14,9 +14,9 @@
     "@ianvs/prettier-plugin-sort-imports": "^4.3.1",
     "@nuxtjs/color-mode": "^3.5.2",
     "@nuxtjs/tailwindcss": "^6.12.2",
-    "@vueuse/nuxt": "^11.1.0",
-    "nuxt": "^3.13.2",
-    "nuxt-auth-utils": "^0.5.0",
+    "@vueuse/nuxt": "^11.2.0",
+    "nuxt": "^3.14.0",
+    "nuxt-auth-utils": "^0.5.1",
     "nuxt-icon": "^0.6.10",
     "prettier": "^3.3.3",
     "prettier-plugin-tailwindcss": "^0.6.8",
@@ -26,9 +26,9 @@
     "vue-router": "^4.4.5"
   },
   "dependencies": {
-    "@faker-js/faker": "^9.1.0",
-    "@pinia/nuxt": "^0.5.5",
-    "pinia": "^2.2.4",
+    "@faker-js/faker": "^9.2.0",
+    "@pinia/nuxt": "^0.7.0",
+    "pinia": "^2.2.6",
     "radix-vue": "1.9.8",
     "tailwind-variants": "^0.2.1"
   }
