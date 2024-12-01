@@ -18,7 +18,7 @@
     "nuxt": "^3.14.1592",
     "nuxt-auth-utils": "^0.5.5",
     "nuxt-icon": "^0.6.10",
-    "prettier": "^3.3.3",
+    "prettier": "^3.4.1",
     "prettier-plugin-tailwindcss": "^0.6.9",
     "tailwindcss-animate": "^1.0.7",
     "typescript": "^5.7.2",
