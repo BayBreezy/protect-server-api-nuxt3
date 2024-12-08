@@ -26,7 +26,7 @@
     "vue-router": "^4.5.0"
   },
   "dependencies": {
-    "@faker-js/faker": "^9.2.0",
+    "@faker-js/faker": "^9.3.0",
     "@pinia/nuxt": "^0.8.0",
     "pinia": "^2.2.8",
     "radix-vue": "1.9.10",
