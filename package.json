@@ -30,6 +30,6 @@
     "@pinia/nuxt": "^0.9.0",
     "pinia": "^2.3.0",
     "radix-vue": "1.9.12",
-    "tailwind-variants": "^0.3.0"
+    "tailwind-variants": "^0.3.1"
   }
 }
